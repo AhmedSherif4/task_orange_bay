@@ -18,9 +18,9 @@ This project implements a responsive and interactive **Product Details Page** fe
 |:---:|:---:|
 | ![Mobile Screenshot](screenshot-mobile1.png) | ![Tablet Screenshot](screenshot-tablet1.jpg) |
 
-| Loading Shimmer | Long Scroll View |
+| Record Screen | Long Scroll View |
 |:---:|:---:|
-| ![Loading](record-mobile.gif) | ![Long Screenshot](long-screenshot-tablet.jpg) |
+| ![record_screen](record-mobile.gif) | ![Long Screenshot](long-screenshot-tablet.jpg) |
 
 ## 🛠 Architecture
 
@@ -84,4 +84,7 @@ lib/
     ```
 
 ---
-*Developed with ❤️ using Flutter*
+*Kind Regards,*
+*Ahmed Sherif*
+[ahmedsherif4175@gmail.com](mailto:ahmedsherif4175@gmail.com)
+
