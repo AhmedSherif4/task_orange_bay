@@ -1,6 +1,11 @@
-# Task Orange Bay 🍊
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/76785e5e-8fd0-4f52-8766-3e41a3f5c144" alt="Logo" width="45">
+  <h1 style="margin: 0;">Task Orange Bay</h1>
+</div>
 
+<p>
 A professional Flutter application demonstrating a clean, scalable architecture and modern UI implementation for a Product Details feature.
+</p>
 
 ## 📋 Task Overview
 
