@@ -1,6 +1,11 @@
-# Task Orange Bay 🍊
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/76785e5e-8fd0-4f52-8766-3e41a3f5c144" alt="Logo" width="45">
+  <h1 style="margin: 0;">Task Orange Bay</h1>
+</div>
 
+<p>
 A professional Flutter application demonstrating a clean, scalable architecture and modern UI implementation for a Product Details feature.
+</p>
 
 ## 📋 Task Overview
 
@@ -18,9 +23,9 @@ This project implements a responsive and interactive **Product Details Page** fe
 |:---:|:---:|
 | ![Mobile Screenshot](screenshot-mobile1.png) | ![Tablet Screenshot](screenshot-tablet1.jpg) |
 
-| Loading Shimmer | Long Scroll View |
+| Record Screen | Long Scroll View |
 |:---:|:---:|
-| ![Loading](record-mobile.gif) | ![Long Screenshot](long-screenshot-tablet.jpg) |
+| ![record_screen](record-mobile.gif) | ![Long Screenshot](long-screenshot-tablet.jpg) |
 
 ## 🛠 Architecture
 
@@ -84,4 +89,7 @@ lib/
     ```
 
 ---
-*Developed with ❤️ using Flutter*
+*Kind Regards,*
+*Ahmed Sherif*
+[ahmedsherif4175@gmail.com](mailto:ahmedsherif4175@gmail.com)
+
